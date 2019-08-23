@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "veganism:hemp"
+    }
+  ],
+  "result": {
+    "item": "veganism:hemp_seeds"
+  }
+}

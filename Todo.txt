@@ -1,0 +1,21 @@
+Recipes:
+all crafting
+all fermenting
+
+Items:
+hemp armor
+hemp
+hemp string
+hemp fabric
+tofu
+soybean
+soy milk
+fertilizer
+
+Blocks:
+Fermenter
+trip wire
+
+Crops:
+Hemp
+Soybean

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "veganism:hemp_bale"
+    }
+  ],
+  "result": {
+    "item": "veganism:hemp",
+    "count": 9
+  }
+}

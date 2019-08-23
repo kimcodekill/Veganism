@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "veganism:block/hemp_bale"
+    },
+    "axis=z": {
+      "model": "veganism:block/hemp_bale",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "veganism:block/hemp_bale",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

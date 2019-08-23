@@ -1,0 +1,11 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory
+[[mods]] #mandatory
+modId="veganism" #mandatory
+version="1.14.4-1.0.0" #mandatory
+logoFile="logo.png"
+authors="Chokemonster" #optional
+displayName="Veganism" #mandatory
+description='''
+Adds non mob items to use if you don't like building mob farms.
+'''

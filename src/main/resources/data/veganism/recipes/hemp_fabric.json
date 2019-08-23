@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "veganism:hemp_fiber"
+    }
+  },
+  "result": {
+    "item": "veganism:hemp_fabric"
+  }
+}
